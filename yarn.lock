@@ -3196,11 +3196,6 @@ cosmiconfig@^6.0.0:
     path-type "^4.0.0"
     yaml "^1.7.2"
 
-cra-template-redux@1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/cra-template-redux/-/cra-template-redux-1.0.2.tgz#dbd58d23aca04bacf90e6a5e06bc74a878233fdc"
-  integrity sha512-YqXXdhW+IlaIM6kTcaDRvYQ74V/vfZL8LAJM3qWA5T+n4fMwcofksEps11jfk0pyhtdcvn+j4uHdGhekPkwO2g==
-
 create-ecdh@^4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/create-ecdh/-/create-ecdh-4.0.3.tgz#c9111b6f33045c4697f144787f9254cdc77c45ff"

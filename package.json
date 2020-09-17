@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
-    "cra-template-redux": "1.0.2",
     "localforage": "^1.9.0",
     "moment": "^2.28.0",
     "node-sass": "^4.14.1",
